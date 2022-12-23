@@ -1,0 +1,23 @@
+{
+  "name": "nodeserverproject",
+  "version": "1.0.0",
+  "description": "to create web server",
+  "main": "myWebServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnduAlemayehu/nodeServerProject.git"
+  },
+  "author": "Andu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnduAlemayehu/nodeServerProject/issues"
+  },
+  "homepage": "https://github.com/AnduAlemayehu/nodeServerProject#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mime-types": "^2.1.35"
+  }
+}
